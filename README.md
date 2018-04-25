@@ -29,3 +29,4 @@ Add a new method giving the `Ceo` the ability to hire new employees.  This funct
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-object-oriented-class-syntax-lab' title='Class Syntax in JS Lab '>Class Syntax in JS Lab</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-object-oriented-class-syntax-lab'>Class Syntax Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Class Syntax in JS Lab</p>
