@@ -26,6 +26,9 @@ In `index.js`, build an ES2015 `Ceo` class with the following properties: `name`
 Add a new method giving the `Ceo` the ability to hire new employees.  This functionality should not be available to a board member.  So the `Ceo` would have one new method:
 + `hireEmployee` — returns `Welcome aboard!`
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-object-oriented-class-syntax-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-object-oriented-class-syntax-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-object-oriented-class-syntax-lab' title='Class Syntax in JS Lab '>Class Syntax in JS Lab</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-object-oriented-class-syntax-lab'>Class Syntax Lab</a> on Learn.co and start learning to code for free.</p>
